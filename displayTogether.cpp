@@ -1,9 +1,6 @@
 // Created By Maswi, MR (2018-04-07595) on December 22, 2019
 
 #include <GL/glut.h>
-#include <iostream>
-#include <string>
-using namespace std;
 
 void drawTriangles()
 {
