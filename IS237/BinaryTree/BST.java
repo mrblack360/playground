@@ -1,7 +1,7 @@
 package BinaryTree;
 
 public class BST {
-    int key;
+    int key;    // value of the Binary Node
     BST leftChild;
     BST rightChild;
 
