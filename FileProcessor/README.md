@@ -12,4 +12,4 @@ This HLR file processor is written in Java to extract MSISDN and IP addresses fr
 
 ## Help
 
-Incase of any challenge, don't hesitate to reach out to [Maswi](maswimr.live).
+Incase of any challenge, don't hesitate to reach out to [Maswi](https://maswimr.live).
